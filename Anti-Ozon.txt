@@ -5,3 +5,4 @@
 0.0.0.0 api.ozon.ru
 0.0.0.0 cdn2.ozone.ru
 0.0.0.0 finance.ozon.ru
+0.0.0.0 pin.apiblink.ru
